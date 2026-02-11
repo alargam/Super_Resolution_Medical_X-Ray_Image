@@ -2,8 +2,6 @@
 
 Super-Resolution for Medical Images 🩻
 
-Archit | Spring '23 | Duke AIPI 540 Final Project
-
 Project Overview ⭐
 
 Generative Adversarial Networks (GANs) have revolutionized image processing tasks like super-resolution and image inpainting. Super-resolution aims to reconstruct high-resolution images from low-resolution inputs, a process especially critical in medical imaging (X-rays, CT scans, MRIs) where high-resolution images can improve diagnosis but capturing them often requires higher radiation doses.
