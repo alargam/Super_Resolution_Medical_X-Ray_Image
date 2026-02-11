@@ -12,8 +12,8 @@ The `Aim` of this project is to train and understand the working of SRGAN and Sw
 **_Sample Results_**  
 <table >
     <tr >
-        <td><center>Low Resolution Input (256x256)</center></td>
-        <td><center>Super Resolution Output (1024x1024)</center></td>
+        <td><center>Low Resolution Input </center></td>
+        <td><center>Super Resolution Output </center></td>
     <tr>
     	<td>
     		<center><img src="assets/sample_lr_input.png" height="300"></center>
