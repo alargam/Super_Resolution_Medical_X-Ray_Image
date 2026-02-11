@@ -1,5 +1,4 @@
 # Super Resolution for Images
-## Final Project
 
 ---
 ## Project Description ⭐  
