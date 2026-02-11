@@ -25,7 +25,6 @@ The `Aim` of this project is to train and understand the working of SRGAN and Sw
 </table>
 
 
-
 &nbsp;
 ## Data Sourcing & Processing   
 For this project the Dataset used to train the Super Resolution model from Unsplash and pexels.
@@ -57,7 +56,8 @@ This would create two files called `train_images.pkl` and `val_images.pkl` which
 &nbsp;
 ## Deep Learning Model Architecture 🧨  
 I have implemented the original [Swift-SRGAN](https://arxiv.org/pdf/2111.14320.pdf) model architecture to enhance the resolution of low-quality images. The authors trained the original Swift-SRGAN on [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) dataset and the Flickr2K dataset. The Generative network was trained on a proposed dataset. Given an input image of size 256 x 256, the `Generator` generates a super-resolution image of size 1024 x 1024. The generated super resolution images are evaluated against the original high resolution images available in the dataset by the `Discriminator`.  
->![img.png](network_architecture.png)  
+<img src="assets/network_architecture.png" height="300">
+
 
 <br>  
 
