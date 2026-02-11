@@ -17,7 +17,7 @@ The `Aim` of this project is to train and understand the working of SRGAN and Sw
         <td><center>Super Resolution Output (1024x1024)</center></td>
     <tr>
     	<td>
-    		<center><img src="256.png" height="300"></center>
+    		<center><img src=![Super Resolution Output](assets/sample_sr_output.png)" height="300"></center>
     	</td>
     	<td>
     		<center><img src="1024.png"  height="300"></center>
