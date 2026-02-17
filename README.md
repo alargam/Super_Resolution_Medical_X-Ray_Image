@@ -9,18 +9,23 @@ There are many state-of-the-art architectures that have been developed previousl
 The `Aim` of this project is to train and understand the working of SRGAN and Swift-SRGAN models on my proposed dataset. I will be downscaling high quality images from the dataset to generate low-resolution images (256x256). Then the generator will train to produce high-quality upscaled images (1024x1024), and these generated images will be compared against the original ground truths by the discriminator.  
 
 &nbsp;  
-**_Sample Results_**  
-<table >
-    <tr >
-        <td><center>Low Resolution Input </center></td>
-        <td><center>Super Resolution Output </center></td>
+**_Sample Results Comparison_** <table>
     <tr>
-    	<td>
-    		<center><img src="assets/sample_lr_input.png" height="300"></center>
-    	</td>
-    	<td>
-    		<center><img src="assets/sample_sr_output.png" height="300"></center>
-    	</td>
+        <td><center><b>Low Resolution (LR) Input</b></center></td>
+        <td><center><b>Super Resolution (SR) Output</b></center></td>
+        <td><center><b>Ground Truth (HR) Original</b></center></td>
+    </tr>
+    <tr>
+        <td>
+            <center><img src="assets/sample_lr_input.png" height="250"></center>
+        </td>
+        <td>
+            <center><img src="assets/sample_sr_output.png" height="250"></center>
+        </td>
+        <td>
+            <center><img src="assets/sample_hr_input.png" height="250"></center>
+        </td>
+    </tr>
 </table>
 
 
